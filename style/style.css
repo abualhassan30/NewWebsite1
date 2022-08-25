@@ -64,7 +64,7 @@ body{
         padding: 1rem 5rem 1rem 1rem;
         position: relative;
         color: white;
-        background-image: url(./images/bg-image.svg);
+        background-image: url(/images/bg-image.svg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -233,7 +233,7 @@ body{
     padding: 1rem 3%;
     height: calc(100% - 10%);
     background-color: #162029;
-background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 
 }
@@ -373,7 +373,7 @@ footer{
 @media  (max-width: 30em) { 
 
     #show-case{
-        background-image: url(/assets/images/bg-phone.svg);
+        background-image: url(/images/bg-phone.svg);
         flex-direction: column;
         justify-content: flex-start;
         align-items: center;
