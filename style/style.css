@@ -402,10 +402,10 @@ footer{
 
     .intro-container h3{
         position: absolute;
-        bottom: 5%;
+        bottom: 2%;
         left: 5%;
         right: 5%;
-        margin-top: 25em;
+        margin-top: 22em;
         opacity: 0.9;
         width: calc(100% - 40px);
         box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
