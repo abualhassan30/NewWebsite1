@@ -64,7 +64,7 @@ body{
         padding: 1rem 5rem 1rem 1rem;
         position: relative;
         color: white;
-        background-image: url(/images/bg-image.svg);
+        background-image: url(./images/bg-image.svg);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -373,7 +373,7 @@ footer{
 @media  (max-width: 30em) { 
 
     #show-case{
-        background-image: url(/images/bg-phone.svg);
+        background-image: url(./images/bg-phone.svg);
         flex-direction: column;
         justify-content: flex-start;
         align-items: center;
@@ -396,7 +396,7 @@ footer{
 
     .intro-container h1{
         font-size: var(--font-size3);
-        margin-top: 2em;
+        margin-top: 1.5em;
 
     }
 
